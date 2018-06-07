@@ -1,4 +1,4 @@
 # BingImageDownloader_Python
-Paste a url from bing image search result and it will automatically download the images with its native size.
+Paste the url of bing image search result page and it will automatically download the target images with its native size.
 
 Required BeautifulSoup
